@@ -11,6 +11,9 @@ You can download it from GitHub
 
 ### Altenitive Instructions
 Download from this Drive Link: https://drive.google.com/drive/folders/1dGJ0dY3u3seZeSIKyvdll6q7CzMEvK1c?usp=sharing
+
 Extract the folder to wherever you want
+
 Drag the file named "JevCraft Utilities Version 1" NOT JevCraft Utilities_1-19_01
+
 Reload/restart your server!
